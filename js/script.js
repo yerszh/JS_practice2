@@ -1,6 +1,4 @@
 window.addEventListener('DOMContentLoaded', function() {
-
-    // Tabs
     
 	let tabs = document.querySelectorAll('.tabheader__item'),
 		tabsContent = document.querySelectorAll('.tabcontent'),
@@ -129,7 +127,6 @@ window.addEventListener('DOMContentLoaded', function() {
     });
 
     const modalTimerId = setTimeout(openModal, 300000);
-    // Изменил значение, чтобы не отвлекало
 
     function showModalByScroll() {
         if (window.pageYOffset + document.documentElement.clientHeight >= document.documentElement.scrollHeight) {
@@ -138,8 +135,6 @@ window.addEventListener('DOMContentLoaded', function() {
         }
     }
     window.addEventListener('scroll', showModalByScroll);
-
-    //Classess
 
     class MenuCard {
         constructor(src, alt, title, descr, price, parentSelector, ...classes) {
