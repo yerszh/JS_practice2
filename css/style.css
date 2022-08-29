@@ -10,7 +10,7 @@ a {
 }
 .btn {
   width: 220px;
-  height: 65px;
+  height: 64px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,14 +28,14 @@ a {
 }
 .btn_dark {
   background-color: #303030;
-  color: #fff;
+  color: #ffffff;
   border: none;
 }
 .btn_min {
-  height: 50px;
+  height: 48px;
 }
 .btn:hover {
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 28px rgba(0, 0, 0, 0.3);
 }
 .container {
   max-width: 1200px;
@@ -48,7 +48,7 @@ a {
   background-color: rgba(0, 0, 0, 0.5);
 }
 .title {
-  font-size: 36px;
+  font-size: 34px;
   font-weight: 400;
 }
 .header {
