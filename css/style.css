@@ -14,7 +14,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: #ffffff;
   font-size: 18px;
   font-weight: 700;
   border: 1px solid rgba(0, 0, 0, 0.2);
@@ -24,7 +24,7 @@ a {
   outline: 0;
 }
 .btn_white {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .btn_dark {
   background-color: #303030;
@@ -75,9 +75,9 @@ a {
 }
 .header__link {
   position: relative;
-  margin-right: 45px;
+  margin-right: 44px;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 20px;
   color: #303030;
 }
 .header__link:after {
@@ -108,7 +108,7 @@ a {
 .sidepanel__text {
   width: 120px;
   height: 120px;
-  font-size: 14px;
+  font-size: 12px;
 }
 .sidepanel__text span {
   display: flex;
@@ -176,7 +176,7 @@ a {
 .tabheader {
   width: 280px;
   padding: 35px 30px;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .tabheader h3 {
   font-weight: 700;
@@ -245,7 +245,7 @@ a {
 }
 .offer__advantages-text {
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 16x;
   font-weight: 300;
   line-height: 21px;
 }
@@ -334,7 +334,7 @@ a {
   width: 170px;
   height: 50px;
   padding: 0 10px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   border: none;
   text-align: center;
@@ -344,7 +344,7 @@ a {
   transition: 0.3s all;
 }
 .calculating__choose-item_active {
-  color: #fff;
+  color: #ffffff;
   background-color: #54ed39;
 }
 .calculating__choose_medium {
@@ -378,7 +378,7 @@ a {
   font-weight: 700;
 }
 .calculating__result span {
-  font-size: 42px;
+  font-size: 40px;
 }
 .menu {
   padding: 40px 0 50px 0;
@@ -400,7 +400,7 @@ a {
 .menu__item {
   width: 320px;
   min-height: 450px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 4px 25px rgba(0, 0, 0, 0.25);
   font-size: 16px;
   font-weight: 300;
@@ -455,7 +455,7 @@ a {
 .order__input {
   width: 280px;
   height: 50px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   border: none;
   font-size: 18px;
@@ -508,7 +508,7 @@ a {
 .promotion__timer .timer__block {
   width: 102px;
   height: 120px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   font-size: 16px;
   font-weight: 300;
@@ -518,14 +518,14 @@ a {
   display: block;
   margin-top: 20px;
   margin-bottom: 5px;
-  font-size: 56px;
+  font-size: 50px;
   font-weight: 700;
 }
 .footer {
   min-height: 180px;
   background-color: #303030;
   padding: 45px 0 50px 0;
-  color: #fff;
+  color: #ffffff;
 }
 .footer .container {
   height: 100%;
@@ -540,7 +540,7 @@ a {
   display: block;
   margin-top: 15px;
   font-size: 16px;
-  color: #fff;
+  color: #ffffff;
 }
 .footer .call {
   text-align: right;
@@ -564,7 +564,7 @@ a {
   position: relative;
   width: 100%;
   padding: 40px;
-  background-color: #fff;
+  background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   max-height: 80vh;
@@ -592,7 +592,7 @@ a {
   margin: 20px auto 20px auto;
   width: 280px;
   height: 50px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   border: none;
   font-size: 18px;
