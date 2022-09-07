@@ -247,19 +247,6 @@ window.addEventListener('DOMContentLoaded', function() {
                 form.reset();
             })
             
-            // request.addEventListener('load', () => {
-            //     if (request.status === 200) {
-            //         console.log(request.response);
-            //         showThanksModal(message.success);
-            //         form.reset();
-            //         setTimeout(() => {
-            //             statusMessage.remove();
-
-            //         }, 2000)
-            //     } else {
-            //         showThanksModal(message.failure);;
-            //     }
-            // })
         });
     }
 
